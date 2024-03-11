@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+nav{
+    text-transform: uppercase;
+    display: inline-flex;
+    background-color: gray;
+    width:200px;
+    height: 800px;
+}
+nav li a{
+    color: white;
+    text-decoration:none;
+}
+header{
+    background-color: black;
+    height: 100px;
+    color: white;
+    text-align:center;
+}
+nav li a:hover{
+    color: black;
+}
+h1{
+    display:inline-block;
+    text-shadow: 10px 10px 10px;
+    color:white;
+    text-align: center;
+}
+footer{
+    background-color: gray;
+    height: 100px;
+}
+main{
+    display: inline-flex;
+}
