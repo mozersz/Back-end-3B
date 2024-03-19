@@ -30,6 +30,7 @@ header{
     text-decoration: overline;
 }
 main{
-    display: inline-block;
+    display:inline;
     text-align: center;
+    position:absolute;
 }
